@@ -1,10 +1,12 @@
 {
   "name": "swagger-codegen-cli-wrapper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "./lib/index.js",
   "bin":{
-    "cg" : "./bin/cg.js"
+    "cg" : "./bin/cg2.js",
+    "cg2" : "./bin/cg2.js",
+    "cg3" : "./bin/cg3.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
