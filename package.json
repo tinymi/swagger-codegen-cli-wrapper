@@ -4,7 +4,7 @@
   "description": "",
   "main": "./lib/index.js",
   "bin":{
-    "cgc" : "./bin/cgc.js"
+    "cg" : "./bin/cg.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
